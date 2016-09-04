@@ -5,7 +5,7 @@
 
 /**
  * @how to use:
- * 1) <div v-affix></div> // default, auto start directive, when vm['_isReady'] is true
+ * 1) <div v-affix></div> // default, auto start directive
  * 2) <div v-affix='ok'></div> // start directive, when vm['ok'] is true
  */
 
