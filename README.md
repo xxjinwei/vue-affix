@@ -12,3 +12,15 @@ vue affix
 ```html
 <div v-affix='ok'></div>
 ```
+
+
+### style
+
+when affix, auto add `affix` class to the el
+
+```css
+    .affix {
+        position: fixed;
+        top: 0;
+    }
+```
