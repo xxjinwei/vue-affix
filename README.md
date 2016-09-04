@@ -8,7 +8,7 @@ vue affix
 <div v-affix></div>
 ```
 
-- with expression: start directive, when vm['ok'] is true
+- with expression: start directive, when vm['expression'] is true
 ```html
 <div v-affix='ok'></div>
 ```
