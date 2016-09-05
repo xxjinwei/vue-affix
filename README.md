@@ -1,9 +1,10 @@
 # vue-affix
-vue affix
+vue affix directive
 
 ### how to use
 
-- no expression, auto start directivey
+#### template
+- no expression, auto start directive
 ```html
 <div v-affix></div>
 ```
@@ -13,9 +14,7 @@ vue affix
 <div v-affix='ok'></div>
 ```
 
-
-### style
-
+#### css
 when affix, auto add `affix` class to the el
 
 ```css
